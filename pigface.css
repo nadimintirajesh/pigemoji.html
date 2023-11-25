@@ -1,0 +1,102 @@
+.ear1{
+
+    border: 3px solid black;
+    height: 60px;
+    width: 100px;
+    background-color: pink;
+    border-radius: 60px 60px 0px 0px;
+    margin-top: -180px;
+    margin-right: -200px;
+    margin-bottom: -7px;
+    transform: rotate(29deg);
+}
+.ear2{
+    border: 3px solid black;
+    height: 60px;
+    width: 100px;
+    background-color:pink;
+    border-radius: 60px 60px 0px 0px;
+    margin-left: -150px;
+    margin-bottom: 112px;
+    transform: rotate(-29deg);
+}
+.a1{
+    border: 1px solid black;
+    height: 60px;
+    width: 100px;
+    background-color:rgb(239, 28, 63);
+    border-radius: 60px 60px 0px 0px;
+    margin-left: -1500px;
+    margin-bottom: 125px;
+    transform: rotate(-29deg);
+}
+.face{
+    border: 3px solid black;
+    height: 300px;
+    width: 300px;
+    background-color: lightpink;
+    border-radius: 150px;
+    margin-top: -200px;
+    margin-left: 30px;
+}
+.eye1{
+    border: 3px solid black;
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+    margin-top:60px ;
+    margin-left: -100px;
+    background-color: white;
+}
+.eye2{
+    border: 3px solid black;
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+    margin-top:-70px ;
+    margin-left: 140px;
+    background-color: white;
+}
+.ret1{
+    border: 1px solid black;
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 12.5px;
+    margin-top: 20px;
+}
+.ret2{
+    border: 1px solid black;
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 12.5px;
+    margin-top: 20px;
+}
+.mouth{
+    border: 3px solid black;
+    height: 70px;
+    width: 150px;
+    background-color: palevioletred;
+    border-radius: 60px;
+    margin-top: 15px ;
+    margin-left: 5px;
+}
+.nose1{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: -70px;
+}
+.nose2{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 15px;
+    margin-top: -31px;
+    margin-left: 80px;
+}
